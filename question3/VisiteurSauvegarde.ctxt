@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VisiteurSauvegarde
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ VisiteurSauvegarde\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c
+comment1.target=java.util.HashMap\ visite(question1.Contributeur)
+comment2.params=g
+comment2.target=java.util.HashMap\ visite(question1.GroupeDeContributeurs)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ VisiteurSauvegarde\r\n
+numComments=3
